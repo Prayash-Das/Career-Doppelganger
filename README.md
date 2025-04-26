@@ -73,7 +73,4 @@ Please read our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 This project is licensed under the [Apache License 2.0](LICENSE).  
 See the `LICENSE` file for full details.
-'''
----
 
-Would you also want me to show you a "prettier" version with some cool emojis on the steps too? 🔥 (totally optional!)

@@ -41,8 +41,14 @@
 
 ## Powered By
 
-- 🧠 **LLM Model:** [deepseek-ai/deepseek-llm-7b-chat](https://huggingface.co/deepseek-ai/deepseek-llm-7b-chat)  
-- 🧩 **Embedding Model:** [BAAI/bge-base-en-v1.5](https://huggingface.co/BAAI/bge-base-en-v1.5)
+- 🧠 **LLM Model: DeepSeek LLM 7B Chat**  
+  This is a powerful large language model developed by DeepSeek, designed to understand complex queries, generate human-like responses, and provide insightful answers. It powers the smart, conversational Q&A and career guidance capabilities of Career Doppelgänger.
+
+- 🧩 **Embedding Model: BGE Base EN v1.5**  
+  Developed by BAAI, this state-of-the-art embedding model transforms text into rich, meaningful vector representations. It enables deep semantic matching between users, mentors, and career paths, making personalized recommendations highly accurate and relevant.
+
+These models work together to bring intelligence, personalization, and meaningful career matching to the Career Doppelgänger platform.
+
 
 These models bring intelligence and semantic matching to the Career Doppelgänger platform.
 

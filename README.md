@@ -49,9 +49,6 @@
 
 These models work together to bring intelligence, personalization, and meaningful career matching to the Career Doppelgänger platform.
 
-
-These models bring intelligence and semantic matching to the Career Doppelgänger platform.
-
 ---
 
 ## Contributing

@@ -117,6 +117,16 @@ Please read our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 ---
 
+## Contributors
+
+👥 We gratefully acknowledge the efforts of the following contributors:
+
+- **Prayash Das**
+- **Saydain Sheikh** 
+- **Sarthak Adhangale**
+
+---
+
 ## License
 
 This project is licensed under the [Apache License 2.0](LICENSE).  

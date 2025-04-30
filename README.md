@@ -18,6 +18,9 @@
 - 🧬 **Doppelgänger Matching**  
   Discover career paths and stories from people who are just like you.
 
+- 📄 **Resume-Based Doppelgänger Search**  
+  Upload your resume, and using your skills and experience, we'll match you with your career doppelgänger — someone whose path aligns closely with yours.
+
 ---
 
 ## Getting Started

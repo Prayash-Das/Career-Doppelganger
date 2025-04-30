@@ -28,7 +28,7 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Prayash-Das/Career-Doppelganger.git
-   cd career-doppelganger
+   cd Career-Doppelganger
    ```
 
 2. **Install dependencies:**

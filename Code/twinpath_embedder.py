@@ -5,7 +5,7 @@ import torch
 from sentence_transformers import SentenceTransformer
 
 # Config
-csv_path = "/mmfs1/home/pdas4/Career/Dataset_Profiles_2000.csv"
+csv_path = "Dataset_Profiles_2000.csv"
 index_path = "profiles_2000_faiss.index"
 ids_path = "profiles_2000_ids.csv"
 

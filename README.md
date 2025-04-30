@@ -81,12 +81,21 @@ The system is modular and extensible — ideal for research, career platforms, o
 ## Powered By
 
 - 🧠 **LLM Model: DeepSeek LLM 7B Chat**  
-  This is a powerful large language model developed by DeepSeek, designed to understand complex queries, generate human-like responses, and provide insightful answers. It powers the smart, conversational Q&A and career guidance capabilities of Career Doppelgänger.
+  A powerful large language model developed by DeepSeek, designed to understand complex queries, generate human-like responses, and provide insightful answers. It powers the smart, conversational Q&A and career guidance capabilities of Career Doppelgänger.
 
 - 🧩 **Embedding Model: BGE Base EN v1.5**  
   Developed by BAAI, this state-of-the-art embedding model transforms text into rich, meaningful vector representations. It enables deep semantic matching between users, mentors, and career paths, making personalized recommendations highly accurate and relevant.
 
-These models work together to bring intelligence, personalization, and meaningful career matching to the Career Doppelgänger platform.
+- 💻 **Compute Infrastructure: Jarvis HPC Cluster at Stevens Institute of Technology**  
+  All models and processing pipelines were developed and tested on **Jarvis**, Stevens' High Performance Computing Cluster, featuring:
+  - 46 servers with 2,752 CPU cores  
+  - 14 TB of memory  
+  - Over 150 teraflops of compute power  
+  - HDR 100 Infiniband interconnects  
+  - 1.2 PB of storage  
+  - Integrated GPUs for accelerated deep learning tasks
+
+These resources ensure fast, reliable model training, embedding generation, and large-scale data processing.
 
 ---
 

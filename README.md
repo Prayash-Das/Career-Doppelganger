@@ -31,12 +31,19 @@
    cd Career-Doppelganger
    ```
 
-2. **Install dependencies:**
+2. **Set up the Conda environment: Make sure you have Miniconda or Anaconda installed.**
+   Create the environment using the provided YAML file:
+   ```bash
+   conda env create -f faiss_gpu_env.yml -n faiss_gpu_env_clone
+   conda activate faiss_gpu_env_clone
+   ```
+
+3. **Install dependencies:**
    ```bash
    npm install
    ```
 
-3. **Run the app:**
+4. **Run the app:**
    ```bash
    npm start
    ```

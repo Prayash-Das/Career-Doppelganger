@@ -1,6 +1,8 @@
 
 # Career Doppelgänger
-
+<p align="center">
+  <img src="Logo/logo.png" alt="Career Doppelgänger Logo" width="200"/>
+</p>
 🚀 **Career Doppelgänger** is your personalized career assistant for Q&A, mentor matching, and doppelgänger matching — helping you find the right guidance and inspiration for your career journey.
 
 ---

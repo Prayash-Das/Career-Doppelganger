@@ -22,6 +22,33 @@
   Upload your resume, and using your skills and experience, we'll match you with your career doppelgänger — someone whose path aligns closely with yours.
 
 ---
+## How It Works
+
+Career Doppelgänger integrates advanced AI models, resume parsing, and semantic search to deliver personalized career assistance through an interactive web interface. Here's a simplified overview of how the system operates:
+
+- 🤖 **AI-Powered Career Q&A**  
+  Users can ask natural language career-related questions. The system encodes the query, retrieves the most relevant profiles using a FAISS similarity index, and generates a context-aware response using a large language model (LLM). It remembers previous queries using a conversation history component for coherent dialogue.
+
+- 🪞 **Doppelgänger Matching**  
+  By entering basic information (title, skills, experience, industry), users are matched to similar professionals from a pre-embedded dataset. The system uses sentence embeddings and FAISS to find the closest career trajectories — acting as your professional "mirror."
+
+- 📄 **Resume-Based Matching**  
+  Users can upload a resume (PDF). The app extracts skills and experience, builds a custom career summary, and finds 2–3 profiles with similar skills and paths using embeddings.
+
+- 🧑‍🏫 **Mentor Matching**  
+  Based on your current role, goals, and learning interests, the app finds a mentor who has walked a similar path — especially useful for those looking to switch industries or upskill.
+
+- ⚙️ **Under the Hood**  
+  The app uses:
+  - `SentenceTransformer` for semantic embeddings
+  - `FAISS` for fast similarity search over thousands of career profiles
+  - `Transformers` LLM (DeepSeek) for natural, context-rich responses
+  - A resume parser to extract structured data from PDFs
+  - `Gradio` for an interactive, user-friendly web interface
+
+The system is modular and extensible — ideal for research, career platforms, or mentorship tools.
+
+
 
 ## Getting Started
 

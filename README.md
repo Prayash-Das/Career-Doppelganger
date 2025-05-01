@@ -95,11 +95,10 @@ These resources ensure fast, reliable model training, embedding generation, and 
 ## Contributing
 
 We welcome contributions! 🚀  
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
 ### Steps:
 
-1. Fork the repo.
+1. Fork the repository.
 2. Create a new branch:
    ```bash
    git checkout -b feature-branch

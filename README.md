@@ -65,17 +65,10 @@ The system is modular and extensible — ideal for research, career platforms, o
    conda activate faiss_gpu_env_clone
    ```
 
-3. **Install dependencies:**
+3. **Run the app:**
    ```bash
-   npm install
+   python twinpath_gradio_ui.py
    ```
-
-4. **Run the app:**
-   ```bash
-   npm start
-   ```
-   (Adjust based on your tech stack.)
-
 ---
 
 ## Powered By
